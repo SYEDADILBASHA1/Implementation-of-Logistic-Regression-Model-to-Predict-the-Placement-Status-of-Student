@@ -84,26 +84,37 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 
+# 1.Placement Data:
 ![1](https://github.com/SYEDADILBASHA1/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/134796157/9f9d0655-f38d-4c3c-b110-a809a3dcb23c)
 
+# 2.Salary Data:
 ![2](https://github.com/SYEDADILBASHA1/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/134796157/d4e86476-9804-4837-b606-7f402dcc6b69)
 
+# 3.checking the null() function:
 ![3](https://github.com/SYEDADILBASHA1/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/134796157/d43e916b-aec1-4eb2-9525-623d2707631b)
 
+# 4.Data Duplicate:
 ![4](https://github.com/SYEDADILBASHA1/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/134796157/600dff54-7d35-4c96-aab2-1412968602c2)
 
+# 5.Print Data:
 ![5](https://github.com/SYEDADILBASHA1/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/134796157/29a8e950-aa24-4985-9020-cee7e45edaf4)
 
+# 6.Data-Status:
 ![6](https://github.com/SYEDADILBASHA1/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/134796157/26d9bbcd-b54a-4f50-9f10-538c25ad8b2d)
 
+# 7.y_prediction array:
 ![7](https://github.com/SYEDADILBASHA1/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/134796157/4664fa57-0cb2-4e9e-b86b-f92515991b10)
 
+# 8.Accuracy Value
 ![8](https://github.com/SYEDADILBASHA1/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/134796157/ece224f0-b35e-4bcd-b836-7176d091823a)
 
+# 9.Confusion Array:
 ![9](https://github.com/SYEDADILBASHA1/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/134796157/f6b6918f-7c15-4d60-951b-dfa977dce8eb)
 
+# 10.Classification Report:
 ![10](https://github.com/SYEDADILBASHA1/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/134796157/0a3e8f8f-10c6-44e2-99d0-6ec78bce075c)
 
+# 11.Prediction of LR:
 ![11](https://github.com/SYEDADILBASHA1/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/134796157/d04a804c-269a-495b-afb2-656aeceb4c9d)
 
 ![12](https://github.com/SYEDADILBASHA1/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/134796157/80be0a49-6249-4466-a4f8-e835ae1d9ec9)
